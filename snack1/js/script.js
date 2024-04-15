@@ -51,4 +51,7 @@ biciclette.forEach((bici) => {
   }
 });
 console.log(biciMaggiore);
+console.log(
+    `La bici più pesante è ${biciMaggiore.nome} con un peso di ${biciMaggiore.peso} kg.`
+  );
 //_______________________________
