@@ -3,6 +3,14 @@ Creare un array di oggetti:
 Ogni oggetto descriverà una bici da corsa con le seguenti proprietà: nome e peso.
 Stampare a schermo la bici con peso minore utilizzando destructuring e template literal.
 
+- [X] 1. Creo array di bici con nome e peso;
+- [X] 2. Dichiaro la variabile d'appoggio/Flag:
+         - [X] biciMinore [inserisco indice a piacere];
+    - Se il peso della bici è minore del peso bici indicata dalla variabile d'appoggio:
+            bicimirore = bici;
+   (bici è il nome della variabile che rappresenta ogni singolo elemento dell'array biciclette durante l'iterazione attraverso il metodo forEach.)
+___________________________________________
+
 
 Snack2
 Creare un array di oggetti di squadre di calcio. Ogni squadra avrà diverse proprietà: nome, punti fatti, falli subiti.
