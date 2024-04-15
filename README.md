@@ -20,8 +20,7 @@ Punti fatti e falli subiti.
 
 3. Infine usando la destrutturazione creiamo un nuovo array i cui elementi contengono solo nomi e falli subiti e stampiamo tutto in console.
 
-Snack Bonus
+### Snack Bonus
 Scrivere una funzione che accetti tre argomenti, un array e due numeri (a più piccolo di b).
 La funzione ritornerà un nuovo array con i valori che hanno la posizione compresa tra i due numeri.
 Usiamo i nuovi metodi degli array foreach o filter.
-Buon lavoro! :muscolo:
