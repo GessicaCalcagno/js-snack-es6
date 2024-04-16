@@ -31,10 +31,22 @@ Ogni oggetto automobile avrà le seguenti proprietà: marca, modello e alimentaz
 Dividi le automobili in 3 array separati: nel primo array solo le auto a benzina, nel secondo solo le auto a diesel, nel terzo il resto delle auto.
 
 - Creo l'array
-- Uso il metodo Filer: 
+- Uso il metodo Filter: 
     - dichiaro 3 variabili per 3 array diversi.
      - 1. inserisco la condizione se l'alimentazione è a benzina crea array solo con queste macchine.
      - 2. inserisco la condizione se l'alimentazione è a disel crea array solo con queste macchine.
      - 3. inserisco la condizione se l'alimentazione per inserire tutto il resto.
 
-- stampo in console le 3 variabili
+- stampo in console le 3 variabili.
+
+### Snack 5
+Crea un array di oggetti che rappresentano delle persone.
+Ogni persona ha un nome, un cognome e un’età.
+Crea quindi un nuovo array inserendo, per ogni persona, una frase con il nome e cognome e l’indicazione se può guidare, in base all’età.
+
+- Creo l'array di persone
+- scorro l'array ed inserisco la condizione:
+    - se ha un età compresa tra i 18 e i 70 anni: può guidare;
+        altrimenti: non può guidare
+
+- stampo in console.log
