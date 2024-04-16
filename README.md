@@ -24,3 +24,17 @@ Punti fatti e falli subiti.
 Scrivere una funzione che accetti tre argomenti, un array e due numeri (a più piccolo di b).
 La funzione ritornerà un nuovo array con i valori che hanno la posizione compresa tra i due numeri.
 Usiamo i nuovi metodi degli array foreach o filter.
+
+#### Snack 4
+Crea un array composto da 4 automobili.
+Ogni oggetto automobile avrà le seguenti proprietà: marca, modello e alimentazione (benzina, diesel, gpl, elettrico, metano).
+Dividi le automobili in 3 array separati: nel primo array solo le auto a benzina, nel secondo solo le auto a diesel, nel terzo il resto delle auto.
+
+- Creo l'array
+- Uso il metodo Filer: 
+    - dichiaro 3 variabili per 3 array diversi.
+     - 1. inserisco la condizione se l'alimentazione è a benzina crea array solo con queste macchine.
+     - 2. inserisco la condizione se l'alimentazione è a disel crea array solo con queste macchine.
+     - 3. inserisco la condizione se l'alimentazione per inserire tutto il resto.
+
+- stampo in console le 3 variabili
